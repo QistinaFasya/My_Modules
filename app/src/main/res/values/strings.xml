@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="AP">C346 Android Programming</string>
+    <string name="ITSD">C382 IT Service Delivery</string>
+    <string name="DCCM">C322 Data Centre and Cloud Mgmt</string>
+    <string name="Project">C300 Project</string>
+</resources>
